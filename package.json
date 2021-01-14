@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "reqwest": "latest",
-    "react-dom": "latest",
+    "antd": "latest",
+    "axios": "0.21.1",
     "react": "latest",
-    "antd": "latest"
+    "react-dom": "latest",
+    "reqwest": "latest"
   },
   "name": "rjqyn",
   "description": null,
